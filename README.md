@@ -26,6 +26,7 @@ My code for course assignments has been attached in the repository.
 
 # Citations
 [1] All data for these assignments was provided by the CSC311 teaching staff with the appropriate citation listed in the 'Handout' document.
+
 [2] Helper functions in the following files were provided by the CSC311 teaching staff:
 
     A2: kNNs and Logistic Regression/utils.py, A2: kNNs and Logistic Regression/l2_distance.py 
