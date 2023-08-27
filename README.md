@@ -6,6 +6,7 @@ CSC311: Introduction to Machine Learning was a supplemental course for my Certif
 
 ## Supervised Learning Methods
 Nonparametric Models: kNNs, Decision Tree Classifiers
+
 Parametric Models: Linear Regression, Logistic Regression, Softmax Regression, Neural Networks, Naive Bayes, Gaussian Discriminant Analysis
 
 ## Unsupervised Learning Methods
