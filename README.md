@@ -15,15 +15,16 @@ Parametric Models: Linear Regression, Logistic Regression, Softmax Regression, N
 Principal Component Analysis, Matrix Completion, Autoencoders, K-Means, Expectation Maximization
 
 
+  
 The code for course assignments has been attached in the repository.
 
 # Assignments Overview
 
 ## Assignment 1: Using decision trees to classify real or fake news based on article headline
-  -Libraries used: scikit-learn, NumPy, Matplotlib
+  - Libraries used: scikit-learn, NumPy, Matplotlib
 
 ## Assignment 2: Using kNN classifier and logistic regression methods to classify MNIST Data
-  -Libraries used: NumPy, Matplotlib
+  - Libraries used: NumPy, Matplotlib
 
 # Citations
 [1] All data for these assignments was provided by the CSC311 teaching staff with the appropriate citation listed in the 'Handout' document.
