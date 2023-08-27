@@ -4,15 +4,15 @@ My programming answers for CSC311: Introduction To Machine Learning course at Un
 # Course Background
 CSC311: Introduction to Machine Learning was a supplemental course for my Certificate in Artificial Intelligence (AECERAIEN) during my B.A.Sc. at University of Toronto. This course covered the mathematical theory and implementation of the most commonly used machine learning algorithms spanning supervised and unsupervised learning. 
 
-Supervised Learning Methods:
+#### Supervised Learning Methods:
 
-  Nonparametric Models - kNNs, Decision Tree Classifiers
+Nonparametric Models - kNNs, Decision Tree Classifiers
 
-  Parametric Models - Linear Regression, Logistic Regression, Softmax Regression, Neural Networks, Naive Bayes, Gaussian Discriminant Analysis
+Parametric Models - Linear Regression, Logistic Regression, Softmax Regression, Neural Networks, Naive Bayes, Gaussian Discriminant Analysis
 
-Unsupervised Learning Methods:
+#### Unsupervised Learning Methods:
 
-  Principal Component Analysis, Matrix Completion, Autoencoders, K-Means, Expectation Maximization
+Principal Component Analysis, Matrix Completion, Autoencoders, K-Means, Expectation Maximization
 
 
 The code for course assignments has been attached in the repository.
